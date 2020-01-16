@@ -8,6 +8,7 @@
 
 ## Sample Cosmos DB Data 
 
+```
 {
 	"FareTypeId": 1,
 	"FareTypeAbbr": "STA",
@@ -27,6 +28,7 @@
 	"SourceTimestamp": "2002-10-02T15:00:00.05456Z",
 	"SyncTimestamp": "2002-10-02T15:00:01.05789Z"
 }
+```
 
 ## Deliverables
 
