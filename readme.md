@@ -1,4 +1,4 @@
-# Cosmos Db DateDiff Query
+# Cosmos DB Percentile Query
 
 ## Objectives
 
